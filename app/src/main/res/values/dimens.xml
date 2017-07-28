@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- IMAGE - LIST TRUYEN BY TYPE  -->
+  <dimen name="width_image_list_truyen_by_type">135dp</dimen>
+  <dimen name="hieght_image_list_truyen_by_type">60dp</dimen>
+</resources>
